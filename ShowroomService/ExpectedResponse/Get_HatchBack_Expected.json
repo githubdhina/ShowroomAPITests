@@ -1,0 +1,18 @@
+[
+  {
+    "make": "Ford",
+    "model": "Fiesta",
+    "year": "2012",
+    "type": "Hatchback",
+    "zeroToSixty": 23.0,
+    "price": 3000
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": "2015",
+    "type": "Hatchback",
+    "zeroToSixty": 12.0,
+    "price": 12000
+  }
+]

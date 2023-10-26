@@ -1,0 +1,10 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2018",
+    "type": "Suv",
+    "zeroToSixty": 12.0,
+    "price": 45000
+  }
+]
